@@ -1,11 +1,11 @@
 <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Ankit+Raj+Mahapatra></p>
 
 <p align="center">
-  <a href="mailto:ankitrajjitendra816@gmail.com">
+  <a href="mailto:ankitrajjitendra816@gmail.com" target="blank">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Mail">
   </a>
 
-  <a href="https://quora.com/Ankit-Raj-Mahapatra-3">
+  <a href="https://quora.com/Ankit-Raj-Mahapatra-3" target="blank">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" alt="Quora">
   </a>
 </p>
