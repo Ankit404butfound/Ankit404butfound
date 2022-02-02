@@ -21,9 +21,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit404butfound" alt="ankit404butfound" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **GO**
 
-- 💬 Ask me about **Python, Arduino, Heroku, PyWhatKit**
+- 💬 Ask me about **Python, Java, Android development, Arduino, Heroku, PyWhatKit**
 
 - 📫 How to reach me **ankitrajjitendra816@gmail.com**
 
