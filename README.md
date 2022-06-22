@@ -36,11 +36,13 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit404butfound&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ankit404butfound" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit404butfound&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="ankit404butfound" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit404butfound&show_icons=true&locale=en&theme=gotham" alt="ankit404butfound" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ankit404butfound&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="ankit404butfound" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit404butfound&theme=gotham" alt="ankit404butfound" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit404butfound&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankit404butfound" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
 
+</div>
