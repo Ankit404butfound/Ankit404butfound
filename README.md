@@ -52,7 +52,11 @@
 
 </div>
 
-<h3 align="center">Thank You for reading it till here, here is a random joke that'll make you laugh! 😂</h3>
+<h3 align="center">Fun Zone😂</h3>
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api"/>
+<h4> ✍️ Random Dev Quote</h4>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<h4>😂 Random Dev Meme</h4>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
