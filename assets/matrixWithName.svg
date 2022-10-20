@@ -43,7 +43,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background-image: url("https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/matrixLikeBg100by100.svg");
+					background-image: url("matrixLikeBg100by100.svg");
 					background-size: 100% 100%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
