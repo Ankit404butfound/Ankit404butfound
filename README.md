@@ -1,6 +1,6 @@
 <div align="center">
 <!--- <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" /> --->
-<img src="assets/matrixWithName.svg" alt="cover" />
+<img src="assets/matrixWithNameLite.svg" alt="cover" />
 </div>
 <!--- <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+this+is+Ankit+Raj+Mahapatra></p>--->
 
