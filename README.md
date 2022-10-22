@@ -59,7 +59,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks!;Have%20an%20Awesome%20Day%20Ahead!;Happy%20Coding!&font=Fira%20Code&color=%23029976&center=true&width=310">
+    <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
 </p>
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
