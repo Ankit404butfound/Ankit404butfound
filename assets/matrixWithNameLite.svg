@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#000000;display:block;z-index:1;position:relative" width="1084" height="322" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
+<defs>
+<pattern id="pid-0.8431670467372643" x="0" y="0" width="107.52000000000001" height="107.52000000000001" patternUnits="userSpaceOnUse">
+    <g transform="scale(0.42000000000000004)"><g style="font-family:courier new;font-size:42.666666666666664"><g transform="translate(0 42.666666666666664)"><text fill="#34ff00" style="animation-delay:-1.3809256775048746s">1</text></g><g transform="translate(0 85.33333333333333)"><text fill="#34ff00" style="animation-delay:-1.2546630512422483s">1</text></g><g transform="translate(0 128)"><text fill="#34ff00" style="animation-delay:-1.128400424979622s">0</text></g><g transform="translate(0 170.66666666666666)"><text fill="#34ff00" style="animation-delay:-1.0021377987169957s">0</text></g><g transform="translate(0 213.33333333333331)"><text fill="#34ff00" style="animation-delay:-0.8758751724543694s">1</text></g><g transform="translate(0 256)"><text fill="#34ff00" style="animation-delay:-0.7496125461917432s">0</text></g><g transform="translate(42.666666666666664 42.666666666666664)"><text fill="#34ff00" style="animation-delay:-0.859456258948738s">0</text></g><g transform="translate(42.666666666666664 85.33333333333333)"><text fill="#34ff00" style="animation-delay:-0.7331936326861118s">1</text></g><g transform="translate(42.666666666666664 128)"><text fill="#34ff00" style="animation-delay:-0.6069310064234855s">0</text></g><g transform="translate(42.666666666666664 170.66666666666666)"><text fill="#34ff00" style="animation-delay:-0.4806683801608593s">1</text></g><g transform="translate(42.666666666666664 213.33333333333331)"><text fill="#34ff00" style="animation-delay:-0.354405753898233s">1</text></g><g transform="translate(42.666666666666664 256)"><text fill="#34ff00" style="animation-delay:-0.2281431276356067s">0</text></g><g transform="translate(85.33333333333333 42.666666666666664)"><text fill="#34ff00" style="animation-delay:-1.1633617695747531s">1</text></g><g transform="translate(85.33333333333333 85.33333333333333)"><text fill="#34ff00" style="animation-delay:-1.037099143312127s">0</text></g><g transform="translate(85.33333333333333 128)"><text fill="#34ff00" style="animation-delay:-0.9108365170495005s">0</text></g><g transform="translate(85.33333333333333 170.66666666666666)"><text fill="#34ff00" style="animation-delay:-0.7845738907868743s">0</text></g><g transform="translate(85.33333333333333 213.33333333333331)"><text fill="#34ff00" style="animation-delay:-0.658311264524248s">0</text></g><g transform="translate(85.33333333333333 256)"><text fill="#34ff00" style="animation-delay:-0.5320486382616219s">1</text></g><g transform="translate(128 42.666666666666664)"><text fill="#34ff00" style="animation-delay:-1.130737564781552s">0</text></g><g transform="translate(128 85.33333333333333)"><text fill="#34ff00" style="animation-delay:-1.0044749385189258s">1</text></g><g transform="translate(128 128)"><text fill="#34ff00" style="animation-delay:-0.8782123122562997s">0</text></g><g transform="translate(128 170.66666666666666)"><text fill="#34ff00" style="animation-delay:-0.7519496859936734s">0</text></g><g transform="translate(128 213.33333333333331)"><text fill="#34ff00" style="animation-delay:-0.625687059731047s">0</text></g><g transform="translate(128 256)"><text fill="#34ff00" style="animation-delay:-0.4994244334684208s">1</text></g><g transform="translate(170.66666666666666 42.666666666666664)"><text fill="#34ff00" style="animation-delay:-1.291234333681302s">0</text></g><g transform="translate(170.66666666666666 85.33333333333333)"><text fill="#34ff00" style="animation-delay:-1.1649717074186756s">1</text></g><g transform="translate(170.66666666666666 128)"><text fill="#34ff00" style="animation-delay:-1.0387090811560495s">0</text></g><g transform="translate(170.66666666666666 170.66666666666666)"><text fill="#34ff00" style="animation-delay:-0.9124464548934231s">1</text></g><g transform="translate(170.66666666666666 213.33333333333331)"><text fill="#34ff00" style="animation-delay:-0.7861838286307968s">1</text></g><g transform="translate(170.66666666666666 256)"><text fill="#34ff00" style="animation-delay:-0.6599212023681706s">0</text></g><g transform="translate(213.33333333333331 42.666666666666664)"><text fill="#34ff00" style="animation-delay:-1.4608471834146708s">1</text></g><g transform="translate(213.33333333333331 85.33333333333333)"><text fill="#34ff00" style="animation-delay:-1.3345845571520445s">0</text></g><g transform="translate(213.33333333333331 128)"><text fill="#34ff00" style="animation-delay:-1.2083219308894182s">1</text></g><g transform="translate(213.33333333333331 170.66666666666666)"><text fill="#34ff00" style="animation-delay:-1.082059304626792s">1</text></g><g transform="translate(213.33333333333331 213.33333333333331)"><text fill="#34ff00" style="animation-delay:-0.9557966783641656s">1</text></g><g transform="translate(213.33333333333331 256)"><text fill="#34ff00" style="animation-delay:-0.8295340521015395s">0</text></g>
+    
+
+<style type="text/css">
+  
+  @keyframes ldp-matrix {
+    0% { opacity: 1; fill: #c5ff10;}
+    10% { opacity: 1; fill: #34ff00; }
+    50% { opacity: 0}
+    100% { opacity: 0}
+  }
+  text {
+    animation: ldp-matrix 1s linear infinite;
+    transform: scaleX(0.7);
+  }
+
+
+    
+.lasvegas {
+    animation: none;
+    transform: scaleX(1);
+    fill: #edfff7;
+  font-family: 'Mono', monospace;
+  font-size:35px;
+  border: none;
+  color: rgba(255,255,255,0.6);
+  text-align: center;
+  text-shadow: 
+     1px 5px 4px rgba(0,0,0,.3), 
+    0 0 2px rgba(52, 255, 0, 1), 
+    0 0 10px rgba(52, 255, 0, 1), 
+    0 0 20px rgba(52, 255, 0, 1), 
+    0 0 30px rgba(52, 255, 0, 1), 
+    0 0 40px #34ff00, 
+    0 0 70px #34ff00, 
+    0 0 80px #34ff00,
+    0 0 100px #34ff00;
+    
+}
+
+
+@media screen and (min-width:320px) and (max-width:860px) {
+    .lasvegas{
+        fill: #ffffff
+    }
+}
+
+    
+</style></g></g>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="1084" height="322" fill="url(#pid-0.8431670467372643)"/>
+<text class="lasvegas" font-size="50px" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000000">Hello 👋, this is Ankit Raj Mahapatra</text>
+</svg>
