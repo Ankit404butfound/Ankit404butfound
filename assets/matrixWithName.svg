@@ -12,29 +12,39 @@
     animation: ldp-matrix 1s linear infinite;
     transform: scaleX(0.7);
   }
-  .noAnimation{
+
+
+    
+.lasvegas {
     animation: none;
     transform: scaleX(1);
-    fill: #ffffff;
-    align-items: center;
-  }
+    fill: #edfff7;
+  font-family: 'Pacifico', cursive;
+  font-size:50px;
+  border: none;
+  color: rgba(255,255,255,0.6);
+  text-align: center;
+  text-shadow: 
+     1px 5px 4px rgba(0,0,0,.3), 
+    0 0 2px rgba(52, 255, 0, 1), 
+    0 0 10px rgba(52, 255, 0, 1), 
+    0 0 20px rgba(52, 255, 0, 1), 
+    0 0 30px rgba(52, 255, 0, 1), 
+    0 0 40px #34ff00, 
+    0 0 70px #34ff00, 
+    0 0 80px #34ff00,
+    0 0 100px #34ff00;
+    
+}
 
-.wavy {
-        font-size: 40px;
-        line-height: 1;
-        letter-spacing: 5px;
-        text-transform: uppercase;
-        text-shadow:
-            0 1px 0 #ff073a,
-            0 2px 0 #39ff14,
-            0 3px 0 #39ff14,
-            0 4px 0 #ff073a,
-            0 8px 5px rgba(0, 0, 0, 0.1);
-        animation: rotate ease-in-out 1s infinite alternate;
-    }
+
+
+
+
+    
 </style></g></g>
   </pattern>
 </defs>
 <rect x="0" y="0" width="1084" height="322" fill="url(#pid-0.8997717646208188)"/>
-<text class="noAnimation wavy" font-size="50px" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000000">Hello 👋, this is Ankit Raj Mahapatra</text>
+<text class="lasvegas" font-size="50px" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000000">Hello 👋, this is Ankit Raj Mahapatra</text>
 </svg>
