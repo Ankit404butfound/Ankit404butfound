@@ -13,7 +13,7 @@
     <path id="path0">
         <animate id="d0" attributeName="d" begin="0s;d2.end" dur="5000ms" values="m0,25 h0 ; m0,25 h310 ; m0,25 h310 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#029976" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#7A7ADB" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
         <textPath xlink:href="#path0">
             Thanks!
         </textPath>
@@ -22,7 +22,7 @@
     <path id="path1">
         <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms" values="m0,25 h0 ; m0,25 h310 ; m0,25 h310 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#029976" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#7A7ADB" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
         <textPath xlink:href="#path1">
             Have an Awesome Day Ahead!
         </textPath>
@@ -31,7 +31,7 @@
     <path id="path2">
         <animate id="d2" attributeName="d" begin="d1.end" dur="5000ms" values="m0,25 h0 ; m0,25 h310 ; m0,25 h310 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#029976" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#7A7ADB" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
         <textPath xlink:href="#path2">
             Happy Coding!
         </textPath>
