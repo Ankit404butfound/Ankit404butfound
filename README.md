@@ -44,19 +44,19 @@
   </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit404butfound&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="ankit404butfound" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit404butfound&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ankit404butfound" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit404butfound&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="ankit404butfound" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit404butfound&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ankit404butfound" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit404butfound&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankit404butfound" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit404ButFound&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" /></a>
 
 </div>
 
 <div align="center">
 <h4> ✍️ Random Dev Quote</h4>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=D3D3D3&theme=algolia"/>
 </div>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
