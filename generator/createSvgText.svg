@@ -1,0 +1,33 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 310 50" style="background-color: #00000000;" width="310px" height="50px">
+
+    <text id="text" style="overflow: visible;" font-family="&quot;Fira Code&quot;, monospace" fill="#7A7ADB" font-size="20" dominant-baseline="auto" x="0" y="50%">
+        Hello, World!
+    </text>
+
+    <script type="text/javascript">
+        function getParameter(key){
+            try{
+                var url = window.document.URL.toString();
+                var values = url.split(key+"=")//[1].split("\u0026")[0].toString();
+                return values[1].toString().split("\u0026")[0];
+            }
+            catch(e){
+                return null;
+            }
+        }
+        var url = window.document.URL.toString();
+        // Get from url parameter
+        var text = getParameter("text");
+        var color = getParameter("color");
+
+        // Set values
+        if (text != null){
+            document.getElementById("text").innerHTML = text;
+        }
+        if (color != null){
+            document.getElementById("text").setAttribute("fill", color);
+        }
+    </script> 
+</svg>
