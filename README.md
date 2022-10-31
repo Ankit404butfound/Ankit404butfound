@@ -28,7 +28,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit404butfound" alt="ankit404butfound" /></a> </p>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Python, Java, Android development, Arduino, Heroku, PyWhatKit**
 
