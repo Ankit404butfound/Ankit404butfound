@@ -54,10 +54,10 @@
 
 </div>
 
-<div align="center">
+<!--<div align="center">
 <h4> ✍️ Random Dev Quote</h4>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=D3D3D3&theme=algolia"/>
-</div>
+</div>-->
 <p align="center">
     <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
 </p>
