@@ -59,7 +59,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit404ButFound&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" /></a> -->
 
 </div>
 
