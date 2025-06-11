@@ -18,7 +18,7 @@
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" alt="Quora">
   </a>
   
-  <a href="https://www.linkedin.com/in/ankit-raj-mahapatra-297384233" target="blank">
+  <a href="https://www.linkedin.com/in/ankit-raj-mahapatra" target="blank">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Quora">
   </a>
 </p>
