@@ -8,7 +8,7 @@
 
 
 <h2 align="center">A passionate full-stack Python developer</h2>
-<h3 align="center"><code>curl me.ankitrajmahapatra.in</code></h3>
+<h3 align="center"><a href="https://ankitrajmahapatra.in">ankitrajmahapatra.in</a></h3>
 <p align="center">
   <a href="mailto:ankitrajjitendra816@gmail.com" target="blank">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Mail">
